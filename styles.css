@@ -1,0 +1,19 @@
+body{
+    background:grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment{
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background: rgb(110, 110, 110)
+}
+.assignment img{
+    width:200px;
+    padding:10px;
+}
+h1{
+    color:rgb(95, 10, 95);
+    text-align:center;
+}
